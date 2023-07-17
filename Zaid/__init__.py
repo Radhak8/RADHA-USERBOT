@@ -17,7 +17,7 @@ aiosession = ClientSession()
 if API_ID:
    API_ID = API_ID
 else:
-   print("WARNING: API ID NOT FOUND USING ZAID API ⚡")
+   print("WARNING: API ID NOT FOUND USING RADHA API ⚡")
    API_ID = "6435225"
 
 if API_HASH:
