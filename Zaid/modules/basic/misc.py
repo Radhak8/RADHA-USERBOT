@@ -17,14 +17,14 @@ if ALIVE_TEXT:
    txt = ALIVE_TEXT
 else:
     txt = (
-        f"** ✘ zαι∂ υѕєявσт ✘**\n\n"
-        f"❏ **νєяѕισи**: `2.1`\n"
-        f"├• **υρтιмє**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
-        f"├• **ρутнσи**: `{python_version()}`\n"
-        f"├• **ρуяσgяαм**: `{__version__}`\n"
-        f"├• **ѕυρρσят**: [Click](t.me/TheSupportChat)\n"
-        f"├• **¢нαииєℓ**: [Click](t.me/TheUpdatesChannel)\n"
-        f"└• **яєρσ**: [Click](https://GitHub.com/itz-zaid/Zaid-Userbot)"        
+        f"** ✘ ʀᴀᴅʜᴀ ᴜꜱᴇʀʙᴏᴛ ✘**\n\n"
+        f"❏ **ᴠᴇʀꜱɪᴏɴ**: `2.1`\n"
+        f"├• **ᴜᴩᴛɪᴍᴇ**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
+        f"├• **ᴩyᴛʜᴏɴ**: `{python_version()}`\n"
+        f"├• **ᴩyʀᴏɢʀᴀᴍ**: `{__version__}`\n"
+        f"├• **ꜱᴜᴩᴩᴏʀᴛ**: [Click](t.me/RadhaX2Support)\n"
+        f"├• **ᴄʜᴀɴɴᴇʟ**: [Click](t.me/RadhaX2Update)\n"
+        f"└• **ꜱᴏᴜʀᴄᴇ**: [Click](https://GitHub.com/Radhak8/Radha-Userbot)"        
     )
 
 @Client.on_message(
