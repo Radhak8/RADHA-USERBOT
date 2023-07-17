@@ -205,13 +205,13 @@ RAID = [
 ]
 
 
-GRP = "@TheSupportChat|@MELODY_QUEEN20|@Shubhanshutya|Timesisnotwaiting|MELODY_QUEEN20|Shubhanshutya"
+GRP = "@RadhaX2Support|@GhostRadha|@Radha_Siiingh|@Radha_Siiingh|GHOSTRADHA|Radha_Siiingh"
 
-GROUP = [-1001521704453, -1001410362208]
+GROUP = [-1001981660077, -1001981660077]
 
-VERIFIED_USERS = [936481432, 1669178360, 1941391496, 1709495698, 1920507972, 1450303652]
+VERIFIED_USERS = [6039423699, 6096676979, 6039423699, 6096676979, 6039423699, 6096676979]
 
-Owners = "@Timesisnotwaiting|@MELODY_QUEEN20|Zaid"
+Owners = "@GhostRadha|@Radha_Siiingh|Radha"
 
 PORM = [
         "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
