@@ -60,7 +60,7 @@ async def cc_scraper(c, m):
         str(txt.count("\n")),
         m.from_user.mention,
     )
-    file = f"x{limit} CC Scrapped by ZaidUB.txt"
+    file = f"x{limit} CC Scrapped by RadhaUB.txt"
     with open(file, "w+") as f:
         f.write(txt)
     del txt
