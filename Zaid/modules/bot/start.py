@@ -16,16 +16,16 @@ PHONE_NUMBER_TEXT = (
 async def hello(client: app, message):
     buttons = [
            [
-                InlineKeyboardButton("✘ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url="t.me/TheUpdatesChannel"),
+                InlineKeyboardButton("✘ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url="t.me/RadhaX2Update"),
             ],
             [
-                InlineKeyboardButton("✘ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="t.me/TheSupportChat"),
+                InlineKeyboardButton("✘ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="t.me/RadhaX2Support"),
             ],
             ]
     reply_markup = InlineKeyboardMarkup(buttons)
     await client.send_photo(message.chat.id, ALIVE_PIC, caption=PHONE_NUMBER_TEXT, reply_markup=reply_markup)
 
-# © By Itz-Zaid Your motherfucker if uh Don't gives credits.
+# © By Radha Your motherfucker if uh Don't gives credits.
 @app.on_message(filters.user(OWNER_ID) & filters.command("clone"))
 async def clone(bot: app, msg: Message):
     chat = msg.chat
