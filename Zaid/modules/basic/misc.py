@@ -62,7 +62,7 @@ async def repo(bot: Client, message: Message):
 
 @Client.on_message(filters.command("creator", ".") & filters.me)
 async def creator(bot: Client, message: Message):
-    await message.edit("https://gitHub.com/itz-zaid")
+    await message.edit("https://gitHub.com/Radhak8")
 
 
 @Client.on_message(filters.command(["uptime", "up"], ".") & filters.me)
