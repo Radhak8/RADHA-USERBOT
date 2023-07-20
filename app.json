@@ -6,7 +6,7 @@
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
-            "description": "fill with the telethon session string from https://replit.com/@Itz-zaid/Generator",
+            "description": "fill with the Pyrogram  session string from @Radhax_robot telegram bot",
             "required": true
         },
         "MONGO_URL": {
