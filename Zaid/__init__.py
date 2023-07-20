@@ -23,7 +23,7 @@ else:
 if API_HASH:
    API_HASH = API_HASH
 else:
-   print("WARNING: API HASH NOT FOUND USING ZAID API ⚡")   
+   print("WARNING: API HASH NOT FOUND USING RADHA API ⚡")   
    API_HASH = "4e984ea35f854762dcde906dce426c2d"
 
 if not BOT_TOKEN:
