@@ -6,7 +6,7 @@
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
-            "description": "fill with the Pyrogram  session string from @Radhax_robot telegram bot",
+            "description": "fill with the Pyrogram  session string from @RADHA_STRING_ROBOT telegram bot",
             "required": true
         },
         "MONGO_URL": {
