@@ -20,7 +20,7 @@
             "value": "1234567890 1234567890"
         },
         "OWNER_ID": {
-            "description": "Fill there your I'd go to @Zaid2_Robot pm and type /id",
+            "description": "Fill there your I'd go to @Radhax_robot pm and type /id",
             "required": true,
             "value": "1234567890"
         },
